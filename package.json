@@ -1,0 +1,12 @@
+{
+  "name": "playnest",
+  "version": "1.0.0",
+  "description": "Playnest is a full-stack video sharing platform inspired by YouTube",
+  "license": "ISC",
+  "author": "Muhammad Ahad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
